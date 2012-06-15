@@ -51,7 +51,7 @@ p, ul, ol, pre
 	height: 100px;
 	width: 100px;
 	position: absolute;
-	top: .6em;
+	top: .65em;
 	-webkit-transition: all .5s ease;
 	-moz-transition: all .5s ease;
 	-o-transition: all .5s ease;
