@@ -1,23 +1,23 @@
-body{ position:relative; z-index:1; background:#dcfcfb; color: #000;} body::before { position:absolute; z-index:-1; top:0; left:0; right:0; bottom:0; content:''; background: url(/images/af.jpg) 45% -140px no-repeat;} #meta {border-top: 1px solid #867d6e; margin-top: 40em;} article h1 {text-align: center; font: 70px "ChunkFiveRegular", cursive;  color:hsla(0, 0%, 0%, .6);; line-height: 1; width: 100%; margin: 10em auto 7.5em; height: 0px !important;} article p {line-height:1.3; font-size: 85%; margin-top:1em;} .ten {font-size: 3.5em; line-height: 1; font-weight: 400; text-align:center; float: left; letter-spacing: -2px; margin: 0 .2em 0 0;} .word1, .word3, .word4 {text-transform: uppercase;} .word1 {font-size: 200%; letter-spacing: .06em; position:relative;} .word2 { font-family: 'CrimsonBoldItalic', serif; color: #dcfcfb; font-size:180%; z-index:2; position: relative; top:-.82em; left:0; display: block;} .word2::before {position: absolute; z-index:-1; content:'of'; color: #535d5c; left: 44.35%; right: 44.35%; font-size: 100% !important;-webkit-text-stroke: .07em #535d5c; -moz-text-stroke: .07em #535d5c;-o-text-stroke: .07em #535d5c;-ie-text-stroke: .07em #535d5c; text-stroke: .07em #535d5c;} .word3 {position:relative;top:-.56em; font-size: 410%;} .word4{position:relative;top:-1.05em; font-size: 308%;} .author {text-align:center; border: 1px solid #4ba4a0; border-width: 1px 0; padding:5px 0; font-size: 80%; letter-spacing: 1px; margin-bottom: 5em;} .author .af {text-transform: uppercase; font-weight: 600;} #closed {margin-top: 3em; } h2 {font-family: 'CrimsonBoldItalic', serif; font-size: 250%; font-weight: normal; border-top: 1px dotted #4ba4a0; padding-top:.8em; text-align:center;margin-bottom: .8em;} #closed p:first-of-type:first-line {font-variant:small-caps; font-weight:600;letter-spacing: 1px; font-size: 110%;} 
-@media screen and (max-width: 800px){body::before { background: url(/images/af.jpg) 45% -80px no-repeat; background-size: 170%;} .prefix_2 {padding-left: 0 !important;} .suffix_2 {padding-right: 0 !important;} #meta {margin-top: 20em;}} a {color: hsla(177, 37%, 47%, 1);} a:hover{color: hsla(177, 37%, 47%, .5);}
+body{ position:relative; z-index:1; background:#dcfcfb; color: #000;} body::before { position:absolute; z-index:-1; top:0; left:0; right:0; bottom:0; content:''; background: url(beta/images/af.jpg) 45% -140px no-repeat;} #meta {border-top: 1px solid #867d6e; margin-top: 40em;} article h1 {text-align: center; font: 70px "ChunkFiveRegular", cursive;  color:hsla(0, 0%, 0%, .6);; line-height: 1; width: 100%; margin: 10em auto 7.5em; height: 0px !important;} article p {line-height:1.3; font-size: 85%; margin-top:1em;} .ten {font-size: 3.5em; line-height: 1; font-weight: 400; text-align:center; float: left; letter-spacing: -2px; margin: 0 .2em 0 0;} .word1, .word3, .word4 {text-transform: uppercase;} .word1 {font-size: 200%; letter-spacing: .06em; position:relative;} .word2 { font-family: 'CrimsonBoldItalic', serif; color: #dcfcfb; font-size:180%; z-index:2; position: relative; top:-.82em; left:0; display: block;} .word2::before {position: absolute; z-index:-1; content:'of'; color: #535d5c; left: 44.35%; right: 44.35%; font-size: 100% !important;-webkit-text-stroke: .07em #535d5c; -moz-text-stroke: .07em #535d5c;-o-text-stroke: .07em #535d5c;-ie-text-stroke: .07em #535d5c; text-stroke: .07em #535d5c;} .word3 {position:relative;top:-.56em; font-size: 410%;} .word4{position:relative;top:-1.05em; font-size: 308%;} .author {text-align:center; border: 1px solid #4ba4a0; border-width: 1px 0; padding:5px 0; font-size: 80%; letter-spacing: 1px; margin-bottom: 5em;} .author .af {text-transform: uppercase; font-weight: 600;} #closed {margin-top: 3em; } h2 {font-family: 'CrimsonBoldItalic', serif; font-size: 250%; font-weight: normal; border-top: 1px dotted #4ba4a0; padding-top:.8em; text-align:center;margin-bottom: .8em;} #closed p:first-of-type:first-line {font-variant:small-caps; font-weight:600;letter-spacing: 1px; font-size: 110%;} 
+@media screen and (max-width: 800px){body::before { background: url(/beta/images/af.jpg) 45% -80px no-repeat; background-size: 170%;} .prefix_2 {padding-left: 0 !important;} .suffix_2 {padding-right: 0 !important;} #meta {margin-top: 20em;}} a {color: hsla(177, 37%, 47%, 1);} a:hover{color: hsla(177, 37%, 47%, .5);}
 @media screen and (max-width: 600px) {body::before {background: none !important;} article h1 { margin-top: 1em !important;} #meta {margin-top: 4em;} .author {margin-bottom: 3em !important;}}
 @font-face {
     font-family: 'ChunkFiveRegular';
-    src: url('/fonts/Chunkfive-webfont.eot');
-    src: url('/fonts/Chunkfive-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/fonts/Chunkfive-webfont.woff') format('woff'),
-         url('/fonts/Chunkfive-webfont.ttf') format('truetype'),
-         url('/fonts/Chunkfive-webfont.svg#ChunkFiveRegular') format('svg');
+    src: url('/beta/fonts/Chunkfive-webfont.eot');
+    src: url('/beta/fonts/Chunkfive-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/beta/fonts/Chunkfive-webfont.woff') format('woff'),
+         url('/beta/fonts/Chunkfive-webfont.ttf') format('truetype'),
+         url('/beta/fonts/Chunkfive-webfont.svg#ChunkFiveRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'CrimsonBoldItalic';
-    src: url('/fonts/Crimson-BoldItalic-webfont.eot');
-    src: url('/fonts/Crimson-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/fonts/Crimson-BoldItalic-webfont.woff') format('woff'),
-         url('/fonts/Crimson-BoldItalic-webfont.ttf') format('truetype'),
-         url('/fonts/Crimson-BoldItalic-webfont.svg#CrimsonBoldItalic') format('svg');
+    src: url('/beta/fonts/Crimson-BoldItalic-webfont.eot');
+    src: url('/beta/fonts/Crimson-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/beta/fonts/Crimson-BoldItalic-webfont.woff') format('woff'),
+         url('/beta/fonts/Crimson-BoldItalic-webfont.ttf') format('truetype'),
+         url('/beta/fonts/Crimson-BoldItalic-webfont.svg#CrimsonBoldItalic') format('svg');
     font-weight: normal;
     font-style: normal;
 }

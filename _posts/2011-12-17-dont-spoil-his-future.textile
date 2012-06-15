@@ -9,7 +9,7 @@ number: 3
 
 h1. {{ page.title }}
 
-<figure>!/images/child.png(child)!</figure>
+<figure>!/beta/images/child.png(child)!</figure>
 
 p(grid_6  dont). Don't
 

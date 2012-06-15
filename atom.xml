@@ -16,8 +16,8 @@ layout: nil
 
  {% for post in site.posts %}
  <entry>
-   <title>/beta/{{ post.title }}</title>
-   <link href="http://padlyrahman.tk/beta/{{ post.url }}"/>
+   <title>/beta{{ post.title }}</title>
+   <link href="http://padlyrahman.tk/beta{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>http://padlyrahman.tk/beta/{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>

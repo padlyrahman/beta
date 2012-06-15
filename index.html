@@ -8,7 +8,7 @@ style: cover
 		<h1 class="logo"><a href="/"><img src="/beta/images/logoy.png"></a></h1>
 		<ul id="contents" class="posts">
 			{% for post in site.posts %}
-			<li><a href="/beta/{{ post.url }}">{{ post.title }}</a></li>
+			<li><a href="/beta{{ post.url }}">{{ post.title }}</a></li>
 			{% endfor %}
 		</ul>
 	</section>

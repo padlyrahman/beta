@@ -1,16 +1,16 @@
-body{ position:relative; z-index:1; background: #fff; color: #444;} body::before, body::after{ position:absolute; z-index:-1; top:0; left:0; right:0; bottom:0; content:'';} body::before {background: url(/images/dollar.jpg) 50% -70px no-repeat;} body::after{background: url(/images/noise.png) center top repeat;}article p { margin-top: 1em; font-size: 90%; font-family: 'ChaparralProRegular', serif; line-height: 1.3em;} article .alpha p:first-of-type:first-line {font-variant:small-caps; font-weight:600;letter-spacing: 2px; font-size: 100%;} #page-header {background: none;} #page-header h1 a { background: transparent url(/images/logoy.png) no-repeat;} .paragraf1 {font-size: 160%; text-align: right;} article h1 { text-align: center; text-transform: uppercase; font: 50px 'CodaHeavy', sans serif; text-shadow: 0px 2px 3px #b9b69d; line-height: 164%; color: #90a383; display: inline-block; letter-spacing: -1px;} .grid_8 {border-bottom: 4px solid #90a383;} h2 {line-height: 100%; padding-top: 10px; font-size: 120%; font-variant:small-caps; font-weight: 600;} a {color: hsla(96, 15%, 58%, 1.0);} a:hover {color: hsla(96, 15%, 58%, .5);} 
+body{ position:relative; z-index:1; background: #fff; color: #444;} body::before, body::after{ position:absolute; z-index:-1; top:0; left:0; right:0; bottom:0; content:'';} body::before {background: url(/beta/images/dollar.jpg) 50% -70px no-repeat;} body::after{background: url(/beta/images/noise.png) center top repeat;}article p { margin-top: 1em; font-size: 90%; font-family: 'ChaparralProRegular', serif; line-height: 1.3em;} article .alpha p:first-of-type:first-line {font-variant:small-caps; font-weight:600;letter-spacing: 2px; font-size: 100%;} #page-header {background: none;} #page-header h1 a { background: transparent url(/beta/images/logoy.png) no-repeat;} .paragraf1 {font-size: 160%; text-align: right;} article h1 { text-align: center; text-transform: uppercase; font: 50px 'CodaHeavy', sans serif; text-shadow: 0px 2px 3px #b9b69d; line-height: 164%; color: #90a383; display: inline-block; letter-spacing: -1px;} .grid_8 {border-bottom: 4px solid #90a383;} h2 {line-height: 100%; padding-top: 10px; font-size: 120%; font-variant:small-caps; font-weight: 600;} a {color: hsla(96, 15%, 58%, 1.0);} a:hover {color: hsla(96, 15%, 58%, .5);} 
 .char1, .char2, .char3, .char4, .char5, .char6, .char7 { font-size: 236%; }
 .char8 { }
-.char9, .char10, .char11, .char12, .char13, .char14, .char15 { font-size: 248%;} @media screen and (max-width:780px){.grid_6 {width: auto !important;} body::before { background: url(/images/dollar.jpg) 46.5% -70px no-repeat;}} @font-face {
+.char9, .char10, .char11, .char12, .char13, .char14, .char15 { font-size: 248%;} @media screen and (max-width:780px){.grid_6 {width: auto !important;} body::before { background: url(/beta/images/dollar.jpg) 46.5% -70px no-repeat;}} @font-face {
     font-family: 'CodaHeavy';
-    src: url('/fonts/Coda-Heavy-webfont.eot');
-    src: url('/fonts/Coda-Heavy-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/fonts/Coda-Heavy-webfont.woff') format('woff'),
-         url('/fonts/Coda-Heavy-webfont.ttf') format('truetype'),
-         url('/fonts/Coda-Heavy-webfont.svg#CodaHeavy') format('svg');
+    src: url('/beta/fonts/Coda-Heavy-webfont.eot');
+    src: url('/beta/fonts/Coda-Heavy-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/beta/fonts/Coda-Heavy-webfont.woff') format('woff'),
+         url('/beta/fonts/Coda-Heavy-webfont.ttf') format('truetype'),
+         url('/beta/fonts/Coda-Heavy-webfont.svg#CodaHeavy') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 @media screen and (max-width: 480px)
-{#page-header h1 a{background: transparent url(/images/logoy64.png) no-repeat;}}
+{#page-header h1 a{background: transparent url(/beta/images/logoy64.png) no-repeat;}}
 
