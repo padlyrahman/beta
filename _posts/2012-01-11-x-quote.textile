@@ -1,0 +1,20 @@
+---
+layout: post
+title: X - Quote
+style: xquote
+short: goo.gl/aHUpR
+font: ChaparralPro, FontinSans, ChunkFive
+number: 6
+---
+h1. {{ page.title }}
+
+	<div class="grid_3">
+<figure>!/images/oq.png(openquote)!</figure>
+	</div>
+	<div class="grid_9">
+bq. America needs to understand Islam, because this is the one religion that erases from its society the race problem. Throughout my travels in the Muslim world, I have met, talked to, and even eaten with people who in America would have been considered white, but the white attitude was removed from their minds by the religion of Islam. I have never before seen sincere and true brotherhood practiced by all together, irrespective of their color.
+
+bq. ~Malcolm X
+
+p(update). Perbedaan warna kulit, ras, dan bangsa, tidak akan menyebabkan keutamaan seseorang atas orang lainnya. Dalam pandangan al-Qur’an, perbedaan bahasa dan warna kulit merupakan salah satu ayat-ayat dan tanda-tanda kebesaran Tuhan. Perbedaan ini merupakan media untuk mengenal satu dengan yang lainnya. Apabila seluruh manusia satu bentuk, satu warna dan memiliki satu corak, tinggi dan berat, maka kehidupan manusia ini akan berujung pada chaos dan anarki.
+	</div>

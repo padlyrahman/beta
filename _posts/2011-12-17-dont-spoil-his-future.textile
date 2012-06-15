@@ -1,0 +1,22 @@
+---
+layout: post
+title: Don't Spoil His Future
+style: child
+short: goo.gl/UtTLZ
+font: ChaparralPro, FontinSans, Anton
+number: 3
+---
+
+h1. {{ page.title }}
+
+<figure>!/images/child.png(child)!</figure>
+
+p(grid_6  dont). Don't
+
+p(prefix_6a spoil). Spoil
+
+p(grid_6 his). His
+
+p(prefix_6a future). Future
+
+p(prefix_6a abolish). abolish child labor ^{ by power to the poster }^

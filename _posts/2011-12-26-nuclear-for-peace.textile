@@ -1,0 +1,17 @@
+---
+layout: post
+title: Nuclear for Peace
+style: quotes
+short: goo.gl/J1N8t
+font: FontinSans
+number: 4
+---
+h1. {{ page.title }}
+
+	<div class="grid_8 push_4">
+
+bq. &ldquo; We believe that atomic energy is a blessing given by God... It's an opportunity. It is a clean energy. It is a healthy energy. &rdquo;
+
+p(author). ~ Mahmoud Ahmadinejad
+
+	</div>

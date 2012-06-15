@@ -1,0 +1,36 @@
+---
+layout: post
+title: Tribute to Slank
+style: tribute
+short: goo.gl/nqqT8
+font: ChaparralPro, FontinSans, Anton, Lobster
+number: 2
+---
+
+h1(#fittext)(lettering). {{ page.title }}
+
+<figure>!/images/slank.jpg(slank)!</figure>
+
+<div class='grid_6 alpha'>
+p{color:#fbed0c; font-size: 120%; line-height: 1.3;}. _&ldquo;Memang ...kantongku memang kering ...Jangan menghina yang penting bukannya maling ...Memang ...jaketku memang kotor ...Jangan menghina yang penting bukan koruptor&rdquo;_
+
+Itulah sepenggal lirik lagu &ldquo;Memang&rdquo; milik Slank di awal kemunculannya di dunia musik nasional -- sekitar awal tahun 90-an -- . Yang membuat ku suka dengan band ini, mereka begitu getol menyindir para pejabat bajingan yang tidak punya rasa tanggung jawab dan harga diri, pejabat yang hanya memandang jabatan sebagai alat untuk menggemukkan kekayaan pribadi, pejabat yang hanya memuaskan nafsu badani.
+
+Tapi! Bisakah penyakit korupsi yang sudah meng-urat akar ini dimusnahkan hanya dengan _satire_, _sarkasme_, dan hukum warisan penjajah?
+
+Kita _flashback_ kebelakang.
+
+Sebelum Slank, banyak kalangan baik dari musisi, sastrawan, ulama, dll, yang juga menyinggung masalah korupsi, tapi itu
+	</div>
+
+	<div class='grid_6 omega clearfix'>
+semua hanya bagaikan debu yang hilang ditiup angin, itu semua hanya bagaikan suara yang membentur tembok. Tak ada efeknya sedikitpun. Apa yang salah? Sistem? _That's it!_
+
+Bagaimana merubah sistem? Revolusi! Ya! Itulah jawaban satu-satunya untuk mengikis habis budaya korupsi di negeri ini. Sebuah revolusi Islam, sebuah revolusi yang didasari dengan ketaqwaan.
+
+Banyak orang begitu fobia terhadap kata &ldquo;revolusi&rdquo;, Karena dia -- menurut pemikiran orang ramai -- akan memakan banyak korban. Tapi ingatkah mereka? Sewaktu kita memperjuangkan kemerdekaan, kita juga berkorban keringat, harta, darah dan nyawa untuk mencapai tujuan tersebut? Ya! Itulah arti dari sebuah perjuangan untuk kehidupan yang mulia, kehidupan yang bertanggung jawab, baik kepada bangsa dan negara maupun terhadap tuntutan langit.
+
+Dan menurutku Slank dengan bimbingan para ulama zuhud bisa menggerakkan para slankers untuk itu. Demi kebaikan, lebih baik jadi provokator daripada jadi koruptor!
+
+Salam Slankers! Salam Revolusi!
+</div>

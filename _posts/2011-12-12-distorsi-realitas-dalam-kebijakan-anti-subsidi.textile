@@ -1,0 +1,32 @@
+---
+layout: post
+title: Distorsi Realitas Dalam Kebijakan Anti Subsidi
+style: distorsi
+short: goo.gl/w9Whv
+font: ChaparralPro, FontinSans, BowlbyOne
+number: 1
+---
+h1(#fittext). {{ page.title }}
+
+<div class="grid_6 alpha">
+Dari hari ke hari, distorsi kian menjadi. Distorsi atas realitas hakiki. Penafian atas kesejatian yang tak terbantahkan. Alam tak lagi ditafsirkan oleh kedirian manusiawi. Semata dikategori sebagai benda mati tak berarti. Diidentifikasi dan dieksplorasi tanpa henti. Tak tersirat mereka dilirik sebagai makhluk penghidup penuh belas kasih. Kekerasan hati mematahkan visi atas keagungan sang mentari yang memberi energi.
+
+Kedangkalan pikiran mengabaikan atas kemurahan udara, air, tanah, api dan segenap isi perut bumi atas umat manusia. Betapa Tuhan yang menjadi sentrum atas kemurahan itu, memberi dan memelihara kita tanpa pilih kasih. Begitu luas kebaikannya, tanpa kenal istilah klasifikasi dan efisiensi. Karena energi adalah hak mutlak Tuhan demi segenap Ummat Manusia. Semuanya mendapatkan Subsidi Energi berkeadilan demi melanjutkan kehidupan.
+
+Pikiran-pikiran sesat dan menyesatkan demikian dominan. Jadilah energi dimiliki oleh para tiran. Kedaulatan Tuhan tak diperhitungkan. Kebutuhan universalitas rakyat pun diobjektivikasikan sebagai pasar demi mengeruk keuntungan. Energi adalah komoditas ekonomi yang dikelola menurut mitos efisiensi dan profitabilitas. Padahal semuanya hanya mantra tak bermakna. Semata slogan pembias motif keserakahan.
+
+<figure>!/images/subsidi_bbm.jpg(subsidi)!</figure>
+</div>
+
+<div class="grid_6 omega clearfix">
+
+Hanya topeng penutup keangkuhan. Hanya alasan atas myopic-nya intelektualisme yang berselingkuh dengan kekuasaan. Intelektualisme yang mengabaikan interpretasi spiritual. Intelektualisme yang mendistorsi realitas hakiki.
+
+Maka Subsidi pun diharamkan seraya mengibarkan Panji Keadilan semu. Tanpa mengindahkan beban hidup rakyatnya yang kian berat. Tanpa memperhitungkan pendekatan produktivitasnya secara keseluruhan. Kaya maupun miskin, mukmin maupun kafir, ahli sajadah maupun haram jadah berhak atas energi, sebagai anugerah ilahi. Sebagaimana kita semua menikamati matahari & udara. Energi bukanlah milik exxon, pertamina, shell, dan siapapun juga. Semua milik Tuhan bagi kemanfaatan ummat manusia. dan hak guna pakainya adalah milik rakyat yang menempatinya. Milik rakyat Indonesia, dan kita semua berhak menikmatinya secara berkeadilan.
+
+Sungguh aneh, perhitungan besaran subsidi bukan dihitung atas biaya produksi dalam eksplorasinya melainkan berdasarkan kesejajaranya dengan harga internasional. Lebih aneh pula, karena subsidi energi yang sesungguhnya dapat mendorong produktivitas nasional secara keseluruhan malah dipersalahkan. Tidakkah ketika industri menikmati harga energi yang murah, akan dapat meningkatkan daya kompetitif produknya sekaligus meningkatkan upah buruhnya? Lantas Negara pun dapat menikmati pajak atas keuntungan perusahaanya. Tidakkah ketika energi murah, mobilitas ekonomi rakyat akan tergerakan? Harga-harga menjadi terjangkau & daya beli masyarakat pun meningkat.
+
+Entahlah mungkin Aku terlalu bodoh, untuk memahami semuanya. Kepada rakyat Indonesia selamat menikmati kemiskinan dan penjajahan gaya baru yang niscaya meluluhkan martabat, harga diri, dan purwadaksi bangsa ini. Kepada Kaum tiran yang berselingkuh dengan korporasi asing, selamat menikmati ejakulasi. Jikalah sudah titi mangsanya, maka semua akan hancur menjadi debu, dan kalian akan merasakan pembalasan alam yang lebih pedih. Pembalasan atas pengkhianatan terhadap Tuhan, alam dan rakyat semesta.
+
+p(author). Oleh: Dedi Suryadi
+</div>

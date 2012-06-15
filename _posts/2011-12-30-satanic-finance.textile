@@ -1,0 +1,47 @@
+---
+layout: post
+title: Satanic Finance --True Conspiracy--
+style: finance
+short: goo.gl/PPnbC
+font: ChaparralPro, FontinSans, Coda
+number: 5
+---
+	<div class="grid_8 push_4 clearfix">
+h1(#fittext)(lettering). {{ page.title }}
+	</div>
+
+	<div class="grid_12 paragraf1 clearfix">
+        <div style="float: left; clear: left; width: 11%; height: 60px"></div>
+        <div style="float: left; clear: left; width: 14%; height: 30px"></div>
+        <div style="float: left; clear: left; width: 9%; height: 30px"></div>
+        <div style="float: left; clear: left; width: 9%; height: 30px"></div>
+Apa yang menyebabkan negara-negara berkembang yang sebetulnya sangat kaya akan sumber daya alam, namun ternyata hidup miskin? Kelaparan dan di lilit utang yang seakan-akan tak mungkin terbayar? Apakah semua itu merupakan kebetulan?
+	</div>
+
+	<div class="grid_6 alpha">
+Pertanyaan itu mungkin pernah terlintas dipikiran kita, pertanyaan yang sangat penting untuk mendapat jawaban secepatnya demi perbaikan Bangsa yang besar ini, Bangsa yang kekayaan alamnya tergadaikan kepada korporasi asing yang berselingkuh dengan kekuasaan, Bangsa yang setiap tahunnya berperang melawan inflasi, dan sisi lain dia -- bangsa ini -- juga menanggung utang yang semestinya tidak perlu.
+
+Sebuah buku ekonomi karangan mantan CEO Bank Mu'amalat, Bapak A. Riawan Amin mengupas tuntas konspirasi ini. Buku ini bercerita banyak tentang kebusukan-kebusukan sistem cacat kapitalis yang dalam prakteknya bersandarkan pada tiga pilar, yaitu: _Flat Money_, _fractional reserve requirement_, dan _interest_. 
+
+Melalui tiga pilar tersebut-lah gonjang ganjing ekonomi akan terus terjadi, korban demi korban akan terus berjatuhan. Sementara dewa penolong palsu berdatangan dengan membawa segepok uang dengan tentu saja imbalan _diskonto_ (suku bunga) yang mereka tetapkan.
+
+h2. Berikut sekilas cara kerja ketiga pilar tersebut 
+
+_Flat money_ adalah uang kertas bernilai -- persisnya dianggap bernilai -- hanya karena diberi cetakan angka oleh _otoritas moneter_ yang menerbitkannya. Uang kertas sama sekali tidak dijamin oleh emas dan perak. Uang kertas hanya lembaran kertas biasa, tak berbeda dengan kertas cetakan lainnya. Jika dicetak melebihi jumlah barang dan jasa yang bisa diproduksi maka
+		</div>
+
+	<div class="grid_6 omega clearfix">
+terjadilah inflasi. Melalui _flat money_ pula kolonialisasi _modern_ dijalankan.
+
+Contohnya _Dollar_, bagaimana AS bisa dengan mudah menjajah dunia hanya dengan melalui penerapan sistem uang kertas, yang memungkinkan AS mempermainkan nilai mata uang negara-negara ketiga yang bersandar kepadanya. 
+
+_Fractional reserve requirement_ (FRR) - kebijakan yang menempatkan bank sebagai pihak yang leluasa mengucurkan pinjaman (kredit) kepada deposan. Disini, bank -- termasuk bank sentral -- ikut mencetak flat money lalu menggandakannya. Pilar kedua ini bertemali dengan pilar ketiga; 
+
+_Interest_ (bunga) -- praktik lumrah berikutnya dalam perbankan.
+
+Bank memungut bunga karena beberapa alasan: biaya servis atas transaksi pinjaman (utang) atau kompensasi mendapatkan hasil _produktif_ bila uang tersebut di investasikan dalam bentuk lain. 
+
+Apapun alasannya, Taurat, Injil dan Al Quran melarang memungut bunga, karena hal itu termasuk praktek riba. Seluruh kitab agama langit sepakat, mengambil riba (bunga) menyebabkan berbagai kerusakan. Bunga mendorong persaingan diantara para pemain ekonomi. Bunga memposisikan kesejahteraan pada segelintir minoritas dengan menarik pajak kepada kaum mayoritas.
+
+Jadi bagaimana...? Orang pintar tahu jawabannya. :P
+	</div>

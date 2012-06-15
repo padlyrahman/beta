@@ -1,0 +1,70 @@
+---
+layout: section
+title: Anatomy of Your Enemy
+style: af
+short: goo.gl/Jhx4i
+font: FontinSans, ChunkFive, Crimson
+number: 7
+---
+	<article id="post">
+	<section class="container_12 clearfix">		
+
+h1(#fittext)(lettering). {{ page.title }}
+
+	</section>
+
+	<section id="author">
+		<div class="container_12 clearfix">		
+			<div class="prefix_3 suffix_3">
+p(author). _lyrics by_ %(af)Anti Flag%
+			</div>
+		</div>
+	</section>
+
+	<section id="lyrics">
+		<div class="container_12 clearfix">		
+			<div class="prefix_2 suffix_2">
+%(ten)10% easy steps to create an enemy and start a war: Listen closely because we will all see this weapon used in our lives. It can be used on a society of the most ignorant to the most highly educated. We need to see their tactics as a weapon against humanity and not as truth.
+
+*First step:* create the enemy. Sometimes this will be done for you.
+
+*Second step:* be sure the enemy that you have chosen is nothing like you. Find obvious differences like race, language, religion, dietary habits, fashion. Emphasize that their soldiers are not doing a job, they are heartless murderers who enjoy killing!
+
+*Third step:* Once these differences are established continue to reinforce them with all disseminated information.
+
+*Fourth step:* Have the media broadcast only the ruling party's information this can be done through state run media. Remember, in times of conflict all for-profit media repeats the ruling party's information. Therefore all for-profit media becomes state-run.
+
+*Fifth step:* show this enemy in actions that seem strange, militant, or different. Always portray the enemy as non-human, evil, a killing machine.
+
+*Sixth step:* Eliminate opposition to the ruling party. Create an "Us versus Them" mentality. Leave no room for opinions in between. One that does not support all actions of the ruling party should be considered a traitor.
+
+*Seventh step:* Use nationalistic and/or religious symbols and rhetoric to define all actions. This can be achieved by slogans such as "freedom loving people versus those who hate freedom." This can also be achieved by the use of flags.
+
+*Eighth step:* Align all actions with the dominant deity. It is very effective to use terms like, "It is god's will" or "god bless our nation."
+
+*Ninth step:* Design propaganda to show that your soldiers have feelings, hopes, families, and loved ones. Make it clear that your soldiers are doing a duty; they do not want or like to kill.
+
+*Tenth step:* Create and atmosphere of fear, and instability and then offer the ruling party as the only solutions to comfort the public's fears. Remembering the fear of the unknown is always the strongest fear.
+
+			</div>
+		</div>
+	</section>
+	<section id="closed">
+		<div class="container_12 clearfix">		
+			<div class="prefix_2 suffix_2">
+
+h2. fin...
+
+Ini adalah salah satu lagu favoritku dari band funk anti flag sewaktu masa remaja dulu, dirilis tahun 2002 dalam album _Mobilize_, dan sampai sekarang masih tersimpan dengan baik. Terkadang juga aku putar ulang untuk sekedar nostalgia dan sebagai pembakar semangat perlawanan kepada rezim korup.
+
+Dalam _lyrics_ lagu ini, sangat jelas tergambarkan bagaimana para kaum _borjuis_ melakukan trik kotor agar dapat meraih keuntungan, sementara kita secara sadar maupun tidak, terhanyut masuk dalam permainan yang mereka gulirkan.
+
+Butir-butir _lyrics_ ini juga nyaris sama dengan apa yang ada pada 24 _protocol_ yang digulirkan oleh musuh-musuh kemanusiaan. Jadi aku rasa tidak ada alasan lagi bagi kita untuk menolak adanya sebuah konspirasi jahat dalam setiap detak jantung kita.
+
+Apa yang harus kita lakukan? 
+
+Gunakan mata, telinga, dan hati. Jangan kita berlaku seperti kata Sekarmadji Maridjan Kartosuwirjo yang mengutip dari ayat Quran... "Mempunyai mata tidak melihat, mempunyai telinga tidak mendengar, dan mempunyai hati tidak memahami".
+			</div>
+		</div>
+	</section>
+	</article>

@@ -1,0 +1,33 @@
+---
+layout: page
+---
+<div id="wrap">
+	{% include header.html %}	
+	
+		{{ content }}
+
+	<nav id="pagination">
+	{% if page.previous %}
+		<a  id="west" class="previous" href="{{ page.previous.url }}" title="You can use &larr; (Left arrow) on keyboard to go to previous page">&laquo; {{ page.previous.title | truncatewords:5 }}</a>
+	{% endif %}
+
+	{% if page.next %}
+		<a id="east" class="next" href="{{ page.next.url }}" title="You can use &rarr; (Right arrow) on keyboard to go to next page">{{ page.next.title | truncatewords:5 }} &raquo;</a>
+	{% endif %}
+	</nav>
+
+	<aside id="meta">
+		<section class="container_12 clearfix">
+			{% if page.number %} Article: <a rel="bookmark" href="{{ page.url }}" title="Permanent link to '{{ page.title }}'"><strong>#{{ page.number }}</strong></a>{% endif %} &bull; Publish On <time datetime="{{ page.date | date: "%Y-%m-%d"  }}"> {{ page.date | date_to_string }}</time> &bull; {% if page.short %} Short URL: <a title="Tweet this post to Twitter" href="http://twitter.com/home?status={{ page.short }}"><strong>{{ page.short }}</strong>{% endif %}</a> {% if page.font %} &bull; Tyfepace: {{ page.font }}{% endif %}
+		</section>
+	</aside>
+
+	{% include footer.html %}
+</div>
+<script src="/js/min.js"></script>
+<script src="/js/padlyrahman.js"></script>
+<script src="/js/twitter.js"></script>
+<script> 
+$(".lettering").lettering('words').children('span').lettering();$("#fittext").fitText(1.2);$("#east").tipsy({gravity:"e"});$("#west").tipsy({gravity:"w"});$("a, .flickr_badge_image a img, article img").tipsy({gravity:"s"});$(".tweet").tweet({join_text:"",username:"padlyrahman",count:4,loading_text:"loading tweets..."})
+</script> 
+
