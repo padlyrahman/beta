@@ -42,11 +42,11 @@ p, ul, ol, pre
 	height: 8em;
 	position: relative;
 	text-transform: uppercase;
-	background: url(https://dl.dropbox.com/u/6172144/line.png)bottom left repeat-x; 
+	background: url(http://dl.dropbox.com/u/6172144/line.png)bottom left repeat-x; 
 }
 #page-header h1 a
 {
-	background: transparent url(https://dl.dropbox.com/u/6172144/logo.png) no-repeat;
+	background: transparent url(http://dl.dropbox.com/u/6172144/logo.png) no-repeat;
 	text-indent: -9999px;
 	height: 100px;
 	width: 100px;
@@ -174,7 +174,7 @@ article .content
 	width: 80px;
 	height: 80px;
 	text-indent: -9999px;
-	background: url(https://dl.dropbox.com/u/6172144/next80.png) no-repeat;
+	background: url(http://dl.dropbox.com/u/6172144/next80.png) no-repeat;
 	overflow: hidden;
 	opacity: .3; 
 	margin: 0 5px 0 0;
@@ -186,7 +186,7 @@ article .content
 }
 #pagination a.previous
 {
-	background: url(https://dl.dropbox.com/u/6172144/previous80.png) no-repeat;
+	background: url(http://dl.dropbox.com/u/6172144/previous80.png) no-repeat;
 	left: 5px;
 }
 #pagination a.next
@@ -254,7 +254,7 @@ article .content
 .follow-me
 {
 	position: absolute;
-	background: url(https://dl.dropbox.com/u/6172144/follow.png) no-repeat;
+	background: url(http://db.tt/8dWlyIfa) no-repeat;
 	overflow: hidden;
 	bottom: 75px;
 	right: -5px;
@@ -324,7 +324,7 @@ article .content
 	}
 	#page-header h1 a
 	{
-	background: transparent url(https://dl.dropbox.com/u/6172144/logo64.png) no-repeat;
+	background: transparent url(http://db.tt/gSgcul2X) no-repeat;
 	height: 64px;
 	width: 64px;
 	}
