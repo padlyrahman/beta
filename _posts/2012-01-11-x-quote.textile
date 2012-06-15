@@ -9,7 +9,7 @@ number: 6
 h1. {{ page.title }}
 
 	<div class="grid_3">
-<figure>!/beta/images/oq.png(openquote)!</figure>
+<figure>!https://dl.dropbox.com/u/6172144/oq.png(openquote)!</figure>
 	</div>
 	<div class="grid_9">
 bq. America needs to understand Islam, because this is the one religion that erases from its society the race problem. Throughout my travels in the Muslim world, I have met, talked to, and even eaten with people who in America would have been considered white, but the white attitude was removed from their minds by the religion of Islam. I have never before seen sincere and true brotherhood practiced by all together, irrespective of their color.
