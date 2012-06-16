@@ -4,7 +4,7 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>{{ site.name }}</title>
+  <title>My Blogazine</title>
   <link href="http://padlyrahman.tk/beta/atom.xml" rel="self"/>
   <link href="http://padlyrahman.tk/beta"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
@@ -19,7 +19,7 @@ layout: nil
     <title>{{ post.title | xml_escape }}</title>
     <link href="http://padlyrahman.tk/beta{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <id>http://padlyrahman.tk/beta/{{ post.id }}</id>
+    <id>http://padlyrahman.tk/beta{{ post.id }}</id>
     <content type="html">{{ post.content | expand_urls: site.url | xml_escape }}</content>
   </entry>
   {% endfor %}
