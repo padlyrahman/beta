@@ -2,7 +2,7 @@
 layout: post
 title: Nuclear for Peace
 style: quotes
-short: goo.gl/J1N8t
+short: 
 font: FontinSans
 number: 4
 ---

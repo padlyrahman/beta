@@ -2,7 +2,7 @@
 layout: post
 title: X - Quote
 style: xquote
-short: goo.gl/aHUpR
+short: 
 font: ChaparralPro, FontinSans, ChunkFive
 number: 6
 ---

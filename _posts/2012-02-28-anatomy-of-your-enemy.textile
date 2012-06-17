@@ -2,7 +2,7 @@
 layout: section
 title: Anatomy of Your Enemy
 style: af
-short: goo.gl/Jhx4i
+short: 
 font: FontinSans, ChunkFive, Crimson
 number: 7
 ---

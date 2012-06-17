@@ -2,7 +2,7 @@
 layout: post
 title: Satanic Finance --True Conspiracy--
 style: finance
-short: goo.gl/PPnbC
+short: 
 font: ChaparralPro, FontinSans, Coda
 number: 5
 ---

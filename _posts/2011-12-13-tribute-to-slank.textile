@@ -2,7 +2,7 @@
 layout: post
 title: Tribute to Slank
 style: tribute
-short: goo.gl/nqqT8
+short: 
 font: ChaparralPro, FontinSans, Anton, Lobster
 number: 2
 ---

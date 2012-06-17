@@ -2,7 +2,7 @@
 layout: post
 title: Don't Spoil His Future
 style: child
-short: goo.gl/UtTLZ
+short: 
 font: ChaparralPro, FontinSans, Anton
 number: 3
 ---

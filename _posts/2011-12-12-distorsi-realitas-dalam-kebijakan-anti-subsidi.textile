@@ -2,7 +2,7 @@
 layout: post
 title: Distorsi Realitas Dalam Kebijakan Anti Subsidi
 style: distorsi
-short: goo.gl/w9Whv
+short: 
 font: ChaparralPro, FontinSans, BowlbyOne
 number: 1
 ---
