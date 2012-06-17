@@ -18,7 +18,7 @@ layout: page
 
 	<aside id="meta">
 		<section class="container_12 clearfix">
-			{% if page.number %} Article: <a rel="bookmark" href="/beta{{ page.url }}" title="Permanent link to '{{ page.title }}'"><strong>#{{ page.number }}</strong></a>{% endif %} &bull; Publish On <time datetime="{{ page.date | date: "%Y-%m-%d"  }}"> {{ page.date | date_to_string }}</time> &bull; {% if page.short %} Short URL: <a title="Tweet this post to Twitter" href="http://twitter.com/home?status={{ page.short }}"><strong>{{ page.short }}</strong>{% endif %}</a> {% if page.font %} &bull; Tyfepace: {{ page.font }}{% endif %}
+			{% if page.number %} Article: <a rel="bookmark" href="/beta{{ page.url }}" title="Permanent link to '{{ page.title }}'"><strong>#{{ page.number }}</strong></a>{% endif %} &bull; Publish On <time datetime="{{ page.date | date: "%Y-%m-%d"  }}"> {{ page.date | date_to_string }}</time>{% if page.short %} &bull; Short URL: <a title="Tweet this post to Twitter" href="http://twitter.com/home?status={{ page.short }}"><strong>{{ page.short }}</strong>{% endif %}</a> {% if page.font %} &bull; Tyfepace: {{ page.font }}{% endif %}
 		</section>
 	</aside>
 
