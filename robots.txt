@@ -1,4 +1,4 @@
 Sitemap: http://padlyrahman.tk/beta/sitemap.xml
 User-agent: *
-Disallow: /beta/index.html
+Disallow: /index.html
 Disallow: atom.xml
